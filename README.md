@@ -1,4 +1,4 @@
-# Decode-Brain-Waves-with-Machine-Learning
+# Decode Brain Waves with Machine Learning
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Decode-Brain-Waves-with-Machine-Learning)
 
 <img src="./EEGData_Image.png">
